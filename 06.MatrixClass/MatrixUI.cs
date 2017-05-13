@@ -3,7 +3,9 @@
 class MatrixUI
 {
     public static void Main(string[] args)
-    {
+    { //condition: https://github.com/TelerikAcademy/CSharp-Part-2/blob/master/Topics/02.%20Multidimensional-Arrays/homework/06.%20Matrix%20class/README.md
+      //video: https://www.youtube.com/watch?v=_I2BG4w1Iyc
+
         //define matrix
         int matrixHeight = 2;
         int matrixWidth = 2;
@@ -78,5 +80,4 @@ class MatrixUI
 
         Console.ResetColor();
     }
-
 }
